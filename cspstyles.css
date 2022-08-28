@@ -1,0 +1,68 @@
+.picsec{
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://images.unsplash.com/photo-1600150806237-a7dffed6b53c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:80vh;
+}
+.picsec h1{
+  color:red;
+  font-size: 50px;
+  font-style: oblique;
+  padding-bottom:20px;
+  position:relative;
+  top:150px;
+}
+.picsec p{
+  color:green;
+  padding-top: 50px;
+  align-content: center;
+  position:relative;
+  left:160px;
+  font-size: 30px;
+}
+.para{
+  color:green;
+  font-style: italic;
+  font-size: 30px;
+}
+.imppoint h2{
+  color:blue;
+  font-style: oblique;
+  font-size:40px
+}
+.imppoint{
+  color:black;
+  font-style: italic;
+  font-size:25px;
+}
+.hr1{
+  border-style:dashed;
+  border-width: thin;
+}
+.preparation{
+  position:relative;
+  font-size:20px;
+  font-style: italic;
+}
+.preparation img{
+  top:10px;
+  width:40%;
+  height:40%;
+  border: 5px solid #555;
+}
+.preparation h2{
+  color:brown;
+  font-size:40px;
+  font-style: oblique;
+}
+.govt img{
+  display:block;
+  margin-left:auto;
+  margin-right: auto;
+  width:60%;
+}
+.govt h2{
+  color:orange;
+  font-style:safari;
+  font-size: 40px;
+}
